@@ -1,2 +1,3 @@
-# Sistema-CRUD-con-PHP-Python-y-Excel
-Sistema CRUD que permite buscar, añadir, modificar y eliminar registros en un archivo Excel desde un formulario web en PHP. Los datos se procesan en Python con pandas, facilitando la gestión de registros en Excel a través de una interfaz web simple.
+# Sistema-CRUD-con-PHP-Python-y-Excel-UMSA
+Sistema CRUD en PHP y Python con integración a Excel (Proyecto Académico – UMSA, Carrera de Informática)
+Desarrollé un sistema CRUD (Crear, Leer, Actualizar, Eliminar) que permite gestionar registros almacenados en un archivo Excel mediante una interfaz web simple construida en PHP. La manipulación de datos se realiza en segundo plano con Python y la biblioteca pandas, lo que facilita operaciones eficientes sobre archivos Excel sin necesidad de una base de datos tradicional. Este proyecto fue desarrollado como parte de un curso en la Universidad Mayor de San Andrés (UMSA) dentro de la Carrera de Informática, y representa una integración práctica entre tecnologías web y procesamiento de datos.
